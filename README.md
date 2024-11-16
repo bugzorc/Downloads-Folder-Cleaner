@@ -1,5 +1,6 @@
-# 📂 Downloads Folder Cleaner [![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NR29BGtFpJ)
+# 📂 Downloads Folder Cleaner 
 Tidy up your cluttered downloads folder! This C++ tool organizes your Downloads folder into neatly categorized subfolders:
+[![Holla me](https://img.shields.io/badge/Join%20Our%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NR29BGtFpJ)
 
 🚨‼️BEWARE‼️🚨
 If **you have trust issues** and want to compile the source code yourself make sure to use >`C++17` to ensure compatibility with the `<filesystem>` library...
