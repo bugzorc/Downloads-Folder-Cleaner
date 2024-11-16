@@ -15,7 +15,7 @@ If **you have trust issues** and want to compile the source code yourself make s
 - **Others**: Anything that doesn't fit the above categories including other folders 
 
 For ease, if you decide to pull request, the code block for the above is here
-(ReadMeImages/folderMapping.png)
+![Folder Mappings](ReadMeImages/folderMappings.png)
 
 
 
