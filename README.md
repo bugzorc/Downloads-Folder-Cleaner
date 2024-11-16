@@ -1,4 +1,4 @@
-# 📂 Downloads Folder Cleaner 
+# 📂 Downloads Folder Cleaner (WORKS FOR WINDOWS ONLY)
 Tidy up your cluttered downloads folder! This C++ tool organizes your Downloads folder into neatly categorized subfolders.
 
 [![Holla me](https://img.shields.io/badge/Holla%20Me%20At%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NR29BGtFpJ)
