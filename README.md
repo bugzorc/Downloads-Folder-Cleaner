@@ -2,7 +2,7 @@
 Tidy up your cluttered downloads folder! This C++ tool organizes your Downloads folder into neatly categorized subfolders.
 
 [![Holla me](https://img.shields.io/badge/Holla%20Me%20At%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NR29BGtFpJ)
-[![Holla me](https://img.shields.io/badge/Holla%20Me%20At%20Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram-link)
+[![Holla me](https://img.shields.io/badge/Holla%20Me%20At%20Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bugzorc)
 
 🚨‼️BEWARE‼️🚨
 If **you have trust issues** and want to compile the source code yourself make sure to use >`C++17` to ensure compatibility with the `<filesystem>` library...
