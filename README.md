@@ -27,9 +27,10 @@ For ease, if you decide to pull request, the code block for the above is here
 ---
 
 ## 🚀 Features
+- Automatically creates folders to put the files into
 - Automatically sorts files into relevant categories.  
 - Lightweight and fast.  
 - Just execute and relax  
-- Customize folder names and file type categories.  
+- only steals 0.06mb of ur hdd, sdd or whatever you use 
 
 
